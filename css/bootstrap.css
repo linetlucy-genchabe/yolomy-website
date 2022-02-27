@@ -57,7 +57,11 @@
       color: white;
   }
   .card {
-      margin-top: 500px;
+      margin-top: 400px;
+  }
+  .card-footer {
+      height: 300px;
+      width: 100%;
   }
   
   
