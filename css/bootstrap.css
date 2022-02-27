@@ -51,3 +51,8 @@
   .button {
       text-align: right;
   }
+  .links {
+      text-align: right;
+      text-decoration: none;
+      color: white;
+  }
