@@ -25,3 +25,11 @@
     margin-left: 10px;
     text-align: center;
 }
+.body {
+    font-family: sans-serif;
+}
+
+.sales {
+    
+    background-color: lightgrey;
+}
